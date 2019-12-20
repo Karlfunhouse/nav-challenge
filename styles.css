@@ -18,6 +18,12 @@ main {
   background-color: black;
 }
 
+p {
+  background-color: black;
+  color: white;
+
+}
+
 .nav-menu {
   display: flex;
   justify-content: space around;
